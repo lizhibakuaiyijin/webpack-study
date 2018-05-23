@@ -2,7 +2,7 @@
 .env.*.php
 .env.php
 .DS_Store
-node_modules
+node_modules/
 frontEnd/dist/
 frontEnd/.idea/
 .idea
