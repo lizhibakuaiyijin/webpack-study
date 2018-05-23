@@ -1,0 +1,13 @@
+@font-face {font-family: 'MyFont';
+   src:  url('./华康海报体简.TTC') format('TTC');
+   font-weight: 600;
+   font-style: normal;
+ }
+
+.hello {
+  color: red;
+  font-family: 'MyFont';
+}
+body{
+	background: url('./icon.png') no-repeat;
+}
